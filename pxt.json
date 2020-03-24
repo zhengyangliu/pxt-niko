@@ -1,0 +1,22 @@
+{
+    "name": "niko",
+    "version": "0.0.1",
+    "description": "ScienceStorm Niko robot package",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "pcf8574.ts",
+        "ps2.ts",
+        "dht11.ts",
+        "rgbled.ts",
+        "sonar.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
