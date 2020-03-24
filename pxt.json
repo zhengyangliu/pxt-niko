@@ -13,7 +13,9 @@
         "ps2.ts",
         "dht11.ts",
         "rgbled.ts",
-        "sonar.ts"
+        "sonar.ts",
+        "_locales/zh/niko-jsdoc-strings.json",
+        "_locales/zh/niko-strings.json"
     ],
     "testFiles": [
         "test.ts"

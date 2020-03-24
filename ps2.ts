@@ -156,7 +156,11 @@ namespace ps2 {
      * @param {number} byte - the data to send , eg: 0x00
      * @return {number} 0 no error, 1 error
      */
+<<<<<<< HEAD
     export function readGamepad(): boolean {
+=======
+    export function readGamepad(): number {
+>>>>>>> 02e391aa0f37684b971dbe0f724077256b31ffe0
 
         let temp = input.runningTime() - lastReadtime;
 
